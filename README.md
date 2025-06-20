@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect With Me
 - [Website](https://yourwebsite.com)
-- [X (Twitter)](https://x.com/CodeDanie))
+- [X (Twitter)](https://x.com/CodeDanie)
 - [Instagram](https://www.instagram.com/code.danie)
 - [LinkedIn](https://www.linkedin.com/in/daniel-agada-alfred-9a799a343)
