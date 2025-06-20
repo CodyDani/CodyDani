@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi, I'm Daniel Alfred
+# 👋 Hi, I'm Daniel Agada Alfred
 
 🎓 I'm a Computer Science student passionate about solving real-world problems using tech.  
 💻 Currently focused on PHP and backend development — building one project at a time.  
