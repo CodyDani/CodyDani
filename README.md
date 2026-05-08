@@ -18,17 +18,19 @@ Here are some ideas to get you started:
 
 
 
-# I'm Daniel Agada Alfred
+# I'm Daniel Agada Alfred 
+
+### I’m a final-year Computer Science student at FULafia focused on building scalable web applications and mastering global industry standards.
 
 🎓 I'm a Computer Science student passionate about solving real-world problems using tech.  
-💻 Currently focused on PHP and backend development — building one project at a time.  
-✝️ Jesus is my Lord, and I build with purpose.  
-🌍 I believe Africa can and will raise tech giants.
+💻 Currently specializing in React.js and Frontend Architecture
+💻 Background in PHP/MySQL and Distributed Systems 
+📫  How to reach me: [[LinkedIn](https://www.linkedin.com/in/daniel-agada-alfred-9a799a343)]
 
 ### 🛠️ Tools & Tech I Use
-- PHP, MySQL, HTML, CSS, JavaScript
+- PHP, MySQL, React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
 - Git & GitHub
-- VS Code
+- RESTful APIs, Networking Models, UI/UX Implementation
 - Still learning more daily...
 
 ### 📈 What I'm Working On
